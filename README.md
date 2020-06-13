@@ -57,7 +57,7 @@ Visit this [Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe) page to learn 
 
 - Github: [@tirthajyoti-ghosh](https://github.com/tirthajyoti-ghosh)
 - Twitter: [@terrific_ghosh](https://twitter.com/terrific_ghosh)
-- Linkedin: [tirthajyoti-ghosh](https://www.linkedin.com/in/tirthajyoti-ghosh-370544199/) 
+- Linkedin: [tirthajyoti-ghosh](https://www.linkedin.com/in/tirthajyoti-ghosh/)
 
 ## 🤝 Contributing
 
